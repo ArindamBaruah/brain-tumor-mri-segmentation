@@ -1,0 +1,14 @@
+group_norm
+ipython
+keras
+matplotlib
+nibabel
+numpy
+opencv-python
+pandas
+scikit-image
+scikit-learn
+scipy
+SimpleITK
+tensorflow
+tqdm
